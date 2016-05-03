@@ -1,0 +1,8 @@
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\bin\Debug\TestFramework.exe.config
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\bin\Debug\TestFramework.exe
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\bin\Debug\DiFramework.dll
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\bin\Debug\DiFramework.pdb
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\obj\Debug\TestFramework.exe
+c:\users\robert\documents\visual studio 2013\Projects\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
