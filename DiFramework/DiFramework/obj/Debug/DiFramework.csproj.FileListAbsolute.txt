@@ -1,0 +1,5 @@
+c:\users\robert\documents\visual studio 2013\Projects\DiFramework\DiFramework\bin\Debug\DiFramework.dll
+c:\users\robert\documents\visual studio 2013\Projects\DiFramework\DiFramework\bin\Debug\DiFramework.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DiFramework\DiFramework\obj\Debug\DiFramework.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2013\Projects\DiFramework\DiFramework\obj\Debug\DiFramework.dll
+c:\users\robert\documents\visual studio 2013\Projects\DiFramework\DiFramework\obj\Debug\DiFramework.pdb
